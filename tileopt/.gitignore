@@ -1,0 +1,4 @@
+build/
+etc/
+.vscode/
+src/project.hpp
